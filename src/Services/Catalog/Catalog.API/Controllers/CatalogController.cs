@@ -1,7 +1,6 @@
 ﻿using Catalog.API.Entities;
 using Microsoft.AspNetCore.Mvc;
 using System.Net;
-using System.Xml.Linq;
 using Catalog.API.Repositories;
 
 namespace Catalog.API.Controllers
